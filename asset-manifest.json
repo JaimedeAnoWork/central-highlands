@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/central-highlands/static/css/main.f855e6bc.css",
+    "main.js": "/central-highlands/static/js/main.d0939b41.js",
+    "static/js/453.860be795.chunk.js": "/central-highlands/static/js/453.860be795.chunk.js",
+    "index.html": "/central-highlands/index.html",
+    "main.f855e6bc.css.map": "/central-highlands/static/css/main.f855e6bc.css.map",
+    "main.d0939b41.js.map": "/central-highlands/static/js/main.d0939b41.js.map",
+    "453.860be795.chunk.js.map": "/central-highlands/static/js/453.860be795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d0939b41.js"
+  ]
+}
